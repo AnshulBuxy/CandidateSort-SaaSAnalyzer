@@ -60,7 +60,7 @@ An output view from the analysis of SaaS Terms and Conditions:
 
 ### Student Chatbot Interface:
 Below is the chatbot interface designed for students, which also shows the chat history:
-![Student Chatbot Interface](https://raw.githubusercontent.com/AnshulBuxy/Jazzee-Project/main/screenshots/student_chatbot.png)
+![Student Chatbot Interface](https://raw.githubusercontent.com/AnshulBuxy/Jazzee-Project/{502DA6E9-F2EE-4AAA-A605-310EE367096B}.png)
 
 ---
 
