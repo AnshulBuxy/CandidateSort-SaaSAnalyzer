@@ -1,9 +1,9 @@
 # Jazzee Project
 
 ### Collaborators:
-- **[Your Name]**
-- **[Collaborator Name 1]**
-- **[Collaborator Name 2]**
+- **Anshul Buxy - 21ce02014@iitbbs.ac.in**
+- **Jatin Sahu - 21ce02010@iitbbs.ac.in**
+- **Kushak Bansal - 21ce02009@iitbbs.ac.in**
 
 ---
 
@@ -40,7 +40,7 @@ The **Jazzee Project** is a multipurpose tool that provides three core functiona
    cd Jazzee-Project
 
 2. pip install -r requirements.txt
-3.streamlit run main.py
+3. streamlit run main.py
 
 
 ## Screenshots
