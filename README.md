@@ -46,17 +46,14 @@ The **Jazzee Project** is a multipurpose tool that provides three core functiona
 
 ## Screenshots
 
-### Streamlit App Interface:
-Below is the main interface of the **Jazzee Project** Streamlit app:
-![Streamlit App Interface](https://raw.githubusercontent.com/AnshulBuxy/Jazzee-Project/main/screenshots/app_interface.png)
-
+#### Streamlit App Interface:
 ### Candidate Shortlisting Output:
 Here is an example of the output generated after shortlisting candidates from the uploaded CSV file:
-![Candidate Shortlisting Output](https://raw.githubusercontent.com/AnshulBuxy/Jazzee-Project/main/screenshots/candidate_shortlisting_output.png)
+![Candidate Shortlisting Output](https://github.com/AnshulBuxy/Jazzee-Project/blob/4d85912e1d801ae0381c4bc45d0c4ecf6d56758f/%7BAE8E2FC1-9A25-4832-97D0-04D92F7B5EDF%7D.png)
 
 ### SaaS T&C Analysis Output:
 An output view from the analysis of SaaS Terms and Conditions:
-![SaaS T&C Analysis Output](https://raw.githubusercontent.com/AnshulBuxy/Jazzee-Project/main/screenshots/saas_analysis_output.png)
+![SaaS T&C Analysis Output](https://github.com/AnshulBuxy/Jazzee-Project/blob/4d85912e1d801ae0381c4bc45d0c4ecf6d56758f/%7BA16B5444-386C-4047-9EDE-11B7C9BC7413%7D.png)
 
 ### Student Chatbot Interface:
 Below is the chatbot interface designed for students, which also shows the chat history:
