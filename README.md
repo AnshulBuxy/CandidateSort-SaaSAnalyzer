@@ -42,7 +42,8 @@ The **Jazzee Project** is a multipurpose tool that provides three core functiona
 2. ```bash
    pip install -r requirements.txt
    streamlit run main.py
-
+3. Put OPEN_API_KEY in main.py line number 253
+   !(https://github.com/AnshulBuxy/Jazzee-Project/blob/ca64f341b213252f1677894714a2c12a22e08ef3/%7B49A5C78E-71F0-43D9-98FD-E2E356FEC544%7D.png)
 
 ## Screenshots
 
