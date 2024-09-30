@@ -3,7 +3,7 @@
 ### Collaborators:
 - **Anshul Buxy - 21ce02014@iitbbs.ac.in**
 - **Jatin Sahu - 21ce02010@iitbbs.ac.in**
-- **Kushak Bansal - 21ce02009@iitbbs.ac.in**
+- **Kushak Bansal - 21ce02008@iitbbs.ac.in**
 
 ---
 
@@ -14,7 +14,7 @@
 4. [How to Run](#how-to-run)
 5. [Screenshots](#screenshots)
 6. [Technologies Used](#technologies-used)
-7. [Future Enhancements](#future-enhancements)
+
 
 ---
 
@@ -46,7 +46,7 @@ The **Jazzee Project** is a multipurpose tool that provides three core functiona
 
 ## Screenshots
 
-#### Streamlit App Interface:
+### Streamlit App Interface:
 ### Candidate Shortlisting Output:
 Here is an example of the output generated after shortlisting candidates from the uploaded CSV file:
 ![Candidate Shortlisting Output](https://github.com/AnshulBuxy/Jazzee-Project/blob/4d85912e1d801ae0381c4bc45d0c4ecf6d56758f/%7BAE8E2FC1-9A25-4832-97D0-04D92F7B5EDF%7D.png)
