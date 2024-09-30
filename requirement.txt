@@ -1,0 +1,5 @@
+openai
+langchain
+beautifulsoup4
+requests
+langchain-community
