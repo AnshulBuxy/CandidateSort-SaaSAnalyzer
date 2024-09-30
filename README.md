@@ -39,8 +39,9 @@ The **Jazzee Project** is a multipurpose tool that provides three core functiona
    git clone https://github.com/AnshulBuxy/Jazzee-Project.git
    cd Jazzee-Project
 
-2. pip install -r requirements.txt
-3. streamlit run main.py
+2. ```bash
+   pip install -r requirements.txt
+   streamlit run main.py
 
 
 ## Screenshots
