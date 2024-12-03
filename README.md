@@ -1,4 +1,4 @@
-# Jazzee Project
+# CandidateSort-SaaSAnalyzer
 
 ### Collaborators:
 - **Anshul Buxy - 21ce02014@iitbbs.ac.in**
