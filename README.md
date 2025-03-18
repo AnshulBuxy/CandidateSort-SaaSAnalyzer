@@ -1,11 +1,6 @@
 # CandidateSort-SaaSAnalyzer
 
-### Collaborators:
-- **Anshul Buxy - 21ce02014@iitbbs.ac.in**
-- **Jatin Sahu - 21ce02010@iitbbs.ac.in**
-- **Kushal Bansal - 21ce02008@iitbbs.ac.in**
 
----
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
